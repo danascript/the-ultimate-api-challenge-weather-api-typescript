@@ -1,4 +1,4 @@
-# QR Code Generator API 
+# TypeScript Weather API
 ---
 <div>
 <b>Quick menu:</b>
