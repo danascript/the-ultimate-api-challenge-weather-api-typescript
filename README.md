@@ -2,7 +2,7 @@
 ---
 <div>
 <b>Quick menu:</b>
-<a href="https://theultimateapichallenge.com/weather-api-typescript" target="_blank" rel="noopener"
+<a href="https://theultimateapichallenge.com/weather-typescript-api" target="_blank" rel="noopener"
     style="padding:0.35rem 0.7rem;
     color: black;
     background: #BDFFF3;
@@ -16,7 +16,7 @@
     border-radius:10px;
     font-size:0.85rem;
     font-weight:600;">Official API Docs</a> |
-<a href="" target="_blank" rel="noopener"
+<a href="https://youtu.be/6MKFKwwhbNo" target="_blank" rel="noopener"
     style="padding:0.35rem 0.7rem;
     color: black;
     background: #FE938C;
